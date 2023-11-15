@@ -1,0 +1,1 @@
+es izprotu git un github lietojumu
